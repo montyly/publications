@@ -50,9 +50,9 @@ Statically detecting Use-After-Free on Binary Code | GreHack 2013 | Josselin Fei
 [Build Secure Smart Contracts: A Deep Dive into Automated Tools](industrial/workshops/2020/trufflecon20/slides.pdf) | TruffleCon 2020 | Josselin Feist
 [Automated Smart Contracts Audit Workshop](industrial/workshops/2019/trufflecon19/slides.pdf) | TruffleCon 2019 | Josselin Feist
 [Using Manticore and Symbolic Execution to Find Smart Contracts Bugs](industrial/workshops/2018/devconIV/slides.pdf) ([exercises](industrial/workshops/2018/devconIV/exercises.pdf)) | Devcon IV | Josselin Feist
-[Introduction to Smart Contract Exploitation](industrial/workshops/2018/grehack18/slides.pdf) ([exercises](industrial/workshops/2018/grehack18/exercises.pdf) | GreHack 2018 | Josselin Feist
+[Introduction to Smart Contract Exploitation](industrial/workshops/2018/grehack18/slides.pdf) ([exercises](industrial/workshops/2018/grehack18/exercises.pdf)) | GreHack 2018 | Josselin Feist
 [Automated Smart Contracts Audit Workshop](industrial/workshops/2018/trufflecon18/slides.pdf) | TruffleCon 2018 | Josselin Feist
-[Manticore Workshop](industrial/workshops/2018/ethcc18/slides.pdf) ([exercises](industrial/workshops/2018/ethcc18/exercises.pdf)| EthCC 2018 | Josselin Feist, JP Smith
+[Manticore Workshop](industrial/workshops/2018/ethcc18/slides.pdf) ([exercises](industrial/workshops/2018/ethcc18/exercises.pdf))| EthCC 2018 | Josselin Feist, JP Smith
 
 ## Technical Blogposts
 ### 2020
