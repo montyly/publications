@@ -2,7 +2,7 @@
 
 | Project | Description | Role | Activity Period
 |--|--|--|--|
-[Tealer](https://github.com/crytic/tealer) | Static analysis framework for Alogrand contracts | Project lead | 2020-present
+[Tealer](https://github.com/crytic/tealer) | Static analysis framework for Algorand contracts | Project lead | 2020-present
 [Slither](https://github.com/crytic/slither) | Static analysis framework for smart contracts | Project lead | 2018-present
 [evm_cfg_builder](https://github.com/crytic/evm_cfg_builder) | Abstract interpreation based CFG recover for smart contract  | Project lead | 2018-present
 [Binsec](https://binsec.github.io/) | Symbolic execution for binaries | Development of a guided symbolic engine | 2015-2018
