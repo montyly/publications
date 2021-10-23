@@ -37,6 +37,7 @@
 ## Presentations
 | Title | Conference | Authors
 |--|--|--|
+[Testing and Verifying Smart Contracts: From Theory to Practice](presentations/2021/gtmfs/slides.pdf) | Formal Methods for Computer Security 2021 | Josselin Feist
 [Safely integrating with ERC20 tokens](presentations/2021/hello_security_21/slides.pdf) | Hello Security 2021 | Josselin Feist
 [SlithIR, An Intermediate Representation of Solidity to enable High Precision Security Analysis](industrial/presentations/2019/run_evm19/slides.pdf) | RunEVM 2019 | Josselin Feist
 [Slither: A Static Analysis Framework for Smart Contracts](industrial/presentations/2019/ethcc19/slides.pdf) | EthCC 2019 | Josselin Feist
