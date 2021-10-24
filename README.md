@@ -12,7 +12,7 @@
 # Academic
 
 ## PhD
-- [Finding the needle in the heap : combining binary analysis techniques to trigger use-after-free](./academic/thesis/thesis.pdf) (2018) - [Slides](./academic/thesis/slides.pdf)
+- [Finding the needle in the heap : combining binary analysis techniques to trigger use-after-free](./academic/thesis/thesis.pdf) (2017) - [Slides](./academic/thesis/slides.pdf)
 
 ## Conferences
 | Paper | Conference | Authors
