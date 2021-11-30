@@ -17,6 +17,7 @@
 ## Conferences
 | Paper | Conference | Authors
 |--|--|--|
+[Evaluating and Improving Static Analysis Tools Via Differential Mutation Analysis](./academic/conferences/2021/qrs21/paper.pdf) | QRS 21 | Alex Groce, Iftekhar Ahmed, Josselin Feist, Gustavo Grieco, Jiri Gesi, Mehran Meidani, and Qihong Chen
 [What are the Actual Flaws in Important Smart Contracts (and How Can We Find Them)?](./academic/conferences/2020/fc20/paper.pdf) ([slides]((./academic/conferences/2020/fc20/paper.pdf))) | FC 20 | Alex Groce, Josselin Feist, Gustavo Grieco, Michael Colburn
 [Echidna: effective, usable, and fast fuzzing for smart contracts](./academic/conferences/2020/issta20/paper.pdf) | ISSTA 20 | Gustavo Grieco, Will Song, Artur Cygan, Josselin Feist, Alex Groce
 [Manticore: A user-friendly symbolic execution framework for binaries and smart contracts](./academic/conferences/2019/ase19/paper.pdf) | ASE 19 | Mark Mossberg, Felipe Manzano, Eric Hennenfent, Alex Groce, Gustavo Grieco, Josselin Feist, Trent Brunson, Artem Dinaburg
@@ -37,9 +38,10 @@
 ## Presentations
 | Title | Conference | Authors
 |--|--|--|
-[Testing and Verifying Smart Contracts: From Theory to Practice](industrial/presentations/2021/gtmfs/slides.pdf) | Formal Methods for Computer Security 2021 | Josselin Feist
-[Safely integrating with ERC20 tokens](industrial/presentations/2021/hello_security_21/slides.pdf) | Hello Security 2021 | Josselin Feist
-[SlithIR, An Intermediate Representation of Solidity to enable High Precision Security Analysis](industrial/presentations/2019/run_evm19/slides.pdf) | RunEVM 2019 | Josselin Feist
+[Building a Practical Static Analyzer for Smart Contracts](industrial/presentations/2021/Dagstuhl/slides.pdf) | Dagstuhl - Rigorous Methods for Smart Contracts 2021 | Josselin Feist (invited)
+[Testing and Verifying Smart Contracts: From Theory to Practice](industrial/presentations/2021/gtmfs/slides.pdf) | Formal Methods for Computer Security 2021 | Josselin Feist (invited)
+[Safely integrating with ERC20 tokens](industrial/presentations/2021/hello_security_21/slides.pdf) | Hello Security 2021 | Josselin Feist (invited)
+[SlithIR, An Intermediate Representation of Solidity to enable High Precision Security Analysis](industrial/presentations/2019/run_evm19/slides.pdf) | RunEVM 2019 | Josselin Feist (invited)
 [Slither: A Static Analysis Framework for Smart Contracts](industrial/presentations/2019/ethcc19/slides.pdf) | EthCC 2019 | Josselin Feist
 [Contract upgrade risks and remediations](industrial/presentations/2018/empire_hacking18/slides.pdf) ([video](https://www.youtube.com/watch?v=mebA5Qz9zeQ)) | Empire Hacking 2018 | Josselin Feist
 [Automatic Bug Finding For The Blockchain](industrial/presentations/2017/ekoparty17/slides.pdf) | Ekoparty 2017 | Felipe Manzano, Josselin Feist
