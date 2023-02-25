@@ -33,6 +33,11 @@
 |--|--|--|
 [Statically detecting Use-After-Free on Binary Code](./academic/journals/2014/JCVHT14/paper.pdf) | Journal of Computer Virology and Hacking Techniques 2014 | Josselin Feist, Laurent Mounier, Marie-Laure Potet
 
+## Program commitee
+- [Workshop on Trusted Smart Contracts (WTSC)](https://fc22.ifca.ai/wtsc/index.html) 2021 - present
+- [International Workshop on Smart Contract Analysis WoSCA](https://conf.researchr.org/track/issta-2020/issta-2020-wosca) - 2020 (co-chair)
+- [Grehack](https://grehack.fr/) - 2015 (organizer), 2016
+
 # Industrial
 
 ## Presentations
