@@ -43,6 +43,11 @@
 ## Presentations
 | Title | Conference | Authors
 |--|--|--|
+
+[Introduction to fuzzing](industrial/presentations/2024/ethbelgrade/2024-06-05-%20Introduction%20to%20fuzzing%20(ethbelgrade).pdf) | EthBelgrade 2024 | Josselin Feist (invited talk)
+[Slither: Advanced usage](industrial/presentations/2024/ethbelgrade/2024-06-07%20-%20Slither%20-%20Web3%20Summit.pdf) | Web3 summit | Josselin Feist (invited talk)
+[RoundMe: rounding analysis made simpler](industrial/presentations/2023/2023-11-14%20-%20TrustX%20-%20roundme.pdf) | Trust-X 2023 | Josselin Feist
+[Build Secure Smart Contracts: How to fuzz with a pro](industrial/presentations/2022/ethcc/2022-07-20%20-%20Building%20secure%20contracts_%20How%20to%20fuzz%20like%20a%20pro.pdf) | EthCC 2022 | Josselin Feist, Nat Chin
 [Building a Practical Static Analyzer for Smart Contracts](industrial/presentations/2021/Dagstuhl/slides.pdf) | Dagstuhl - Rigorous Methods for Smart Contracts 2021 | Josselin Feist (invited)
 [Testing and Verifying Smart Contracts: From Theory to Practice](industrial/presentations/2021/gtmfs/slides.pdf) | Formal Methods for Computer Security 2021 | Josselin Feist (invited)
 [Safely integrating with ERC20 tokens](industrial/presentations/2021/hello_security_21/slides.pdf) | Hello Security 2021 | Josselin Feist (invited)
@@ -56,6 +61,14 @@ Statically detecting Use-After-Free on Binary Code | GreHack 2013 | Josselin Fei
 ## Workshops
 | Title | Conference | Authors
 |--|--|--|
+[Slither: API walkthrough](industrial/workshops/2024/ethdam/2024-04-12-.pdf) | EThDam 2024 | Josselin Feist
+[Slither: API walkthrough](industrial/workshops/2024/secureum/2024-06-17%20Slither.pdf) | Secureum 2024 | Josselin Feist
+[Build Secure Smart Contracts: How to fuzz with a pro](industrial/workshops/2023/trust-x/2023-11-14-fuzzing.pdf) | Trust-X 2023 | Josselin Feist
+[Build Secure Smart Contracts: How to fuzz with a pro](industrial/workshops/2023/ethcc/2023-07-17%20-%20How%20to%20fuzz%20like%20a%20pro%20(ethcc).pdf) | EthCC 2023 | Josselin Feist, Nat Chin, Justin Jacob
+[Build Secure Smart Contracts: How to fuzz with a pro](industrial/workshops/2023/devcon/2023-10-01-fuzzing.pdf) | Devcon 2023 | Josselin Feist, Gustavo Grieco
+[Build Secure Smart Contracts: How to fuzz with a pro](industrial/workshops/2023/ebs/2023-11-07-fuzzing.pdf) | EBS | Josselin Feist
+[Build Secure Smart Contracts: How to fuzz with a pro](industrial/workshops/2023/defi101/2023-07-14-How-to-fuzz-like-a-pro.pdf) | DeFi 101 | Josselin Feist, Nat Chin, Justin Jacob
+[Build Secure Smart Contracts: How to fuzz with a pro](industrial/workshops/2022/dappcon/2022-08-09_How_to_fuzz_like_a_pro.pdf) | DappCon 2022 | Josselin Feist, Troy Sargent
 [Build Secure Smart Contracts: A Deep Dive into Automated Tools](industrial/workshops/2020/trufflecon20/slides.pdf) | TruffleCon 2020 | Josselin Feist
 [Automated Smart Contracts Audit Workshop](industrial/workshops/2019/trufflecon19/slides.pdf) | TruffleCon 2019 | Josselin Feist
 [Using Manticore and Symbolic Execution to Find Smart Contracts Bugs](industrial/workshops/2018/devconIV/slides.pdf) ([exercises](industrial/workshops/2018/devconIV/exercises.pdf)) | Devcon IV | Josselin Feist
@@ -63,7 +76,18 @@ Statically detecting Use-After-Free on Binary Code | GreHack 2013 | Josselin Fei
 [Automated Smart Contracts Audit Workshop](industrial/workshops/2018/trufflecon18/slides.pdf) | TruffleCon 2018 | Josselin Feist
 [Manticore Workshop](industrial/workshops/2018/ethcc18/slides.pdf) ([exercises](industrial/workshops/2018/ethcc18/exercises.pdf))| EthCC 2018 | Josselin Feist, JP Smith
 
+## Podcast, panel & misc
+
+- [Fuzzing vs Formal Verification — Panel discussion](https://www.youtube.com/watch?v=NCclZjMmkDs&list=PL-O3RcN9YCVRMEGA6kkQhQ2tM9OuotHPD&index=1) - Panel (Web 3 Security summit - 2024)
+- [Garden finance - AMA](https://x.com/garden_finance/status/1816220025268707540) - Podcast (2024)
+- [Cyfrin - Symbolic Execution & Formal Verification](https://www.youtube.com/watch?v=Ycj0ZVWof5E) - Podcast (2023)
+- [DeFi security Summit 2023 - Session 16: Audits Conventional vs Community Panel](https://www.youtube.com/watch?v=Ycj0ZVWof5E) - Panel (DSS - 2023)
+- [Secureum SafeCast #3](https://www.youtube.com/watch?v=Ycj0ZVWof5E) - Podcast (2022)
+- [Soliditors](https://www.youtube.com/watch?v=G_HlT0ttVu0) - French podcast (2024)
+
 ## Technical Blogposts
+### 2024
+- [Evaluating blockchain security maturity](https://blog.trailofbits.com/2023/07/14/evaluating-blockchain-security-maturity/).
 ### 2020
 - [Breaking Aave Upgradeability](https://blog.trailofbits.com/2020/12/16/breaking-aave-upgradeability/).
 - [Good idea, bad design: How the Diamond standard falls short](https://blog.trailofbits.com/2020/10/30/good-idea-bad-design-how-the-diamond-standard-falls-short/)
