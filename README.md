@@ -77,6 +77,8 @@ Statically detecting Use-After-Free on Binary Code | GreHack 2013 | Josselin Fei
 
 ## Podcast, panel & misc
 
+- [Bountyhunt3rz](https://www.youtube.com/watch?v=bUsaqKasI8A) - Podcast (2025)
+- [The Network Podcast](https://www.youtube.com/watch?v=P5ZbgHvMbs0) - Podcast (2025)
 - [Fuzzing vs Formal Verification — Panel discussion](https://www.youtube.com/watch?v=NCclZjMmkDs&list=PL-O3RcN9YCVRMEGA6kkQhQ2tM9OuotHPD&index=1) - Panel (Web 3 Security summit - 2024)
 - [Garden finance - AMA](https://x.com/garden_finance/status/1816220025268707540) - Podcast (2024)
 - [Cyfrin - Symbolic Execution & Formal Verification](https://www.youtube.com/watch?v=Ycj0ZVWof5E) - Podcast (2023)
