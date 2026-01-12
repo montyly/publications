@@ -43,6 +43,7 @@
 ## Presentations
 | Title | Conference | Authors
 |--|--|--|
+[The Definitive Guide to Rounding in DeFi](industrial/presentations/2025/2025-11-16_rounding.pdf) | WonderCon 2025 | Josselin Feist (invited talk)
 [Introduction to fuzzing](industrial/presentations/2024/ethbelgrade/2024-06-05-%20Introduction%20to%20fuzzing%20(ethbelgrade).pdf) | EthBelgrade 2024 | Josselin Feist (invited talk)
 [Slither: Advanced usage](industrial/presentations/2024/ethbelgrade/2024-06-07%20-%20Slither%20-%20Web3%20Summit.pdf) | Web3 summit | Josselin Feist (invited talk)
 [RoundMe: rounding analysis made simpler](industrial/presentations/2023/2023-11-14%20-%20TrustX%20-%20roundme.pdf) | Trust-X 2023 | Josselin Feist
