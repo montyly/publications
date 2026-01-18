@@ -1,0 +1,288 @@
+# Talks and presentations data
+# This is the single source of truth for all talks/presentations
+# Used to generate both the publications README and the business website talks page
+
+academic_conferences:
+  - title: "Evaluating and Improving Static Analysis Tools Via Differential Mutation Analysis"
+    paper_path: "academic/conferences/2021/qrs21/paper.pdf"
+    conference: "QRS 21"
+    year: 2021
+    authors: "Alex Groce, Iftekhar Ahmed, Josselin Feist, Gustavo Grieco, Jiri Gesi, Mehran Meidani, and Qihong Chen"
+
+  - title: "What are the Actual Flaws in Important Smart Contracts (and How Can We Find Them)?"
+    paper_path: "academic/conferences/2020/fc20/paper.pdf"
+    slides_path: "academic/conferences/2020/fc20/slides.pdf"
+    conference: "FC 20"
+    year: 2020
+    authors: "Alex Groce, Josselin Feist, Gustavo Grieco, Michael Colburn"
+
+  - title: "Echidna: effective, usable, and fast fuzzing for smart contracts"
+    paper_path: "academic/conferences/2020/issta20/paper.pdf"
+    conference: "ISSTA 20"
+    year: 2020
+    authors: "Gustavo Grieco, Will Song, Artur Cygan, Josselin Feist, Alex Groce"
+
+  - title: "Manticore: A user-friendly symbolic execution framework for binaries and smart contracts"
+    paper_path: "academic/conferences/2019/ase19/paper.pdf"
+    conference: "ASE 19"
+    year: 2019
+    authors: "Mark Mossberg, Felipe Manzano, Eric Hennenfent, Alex Groce, Gustavo Grieco, Josselin Feist, Trent Brunson, Artem Dinaburg"
+
+  - title: "Slither: A Static Analysis Framework For Smart Contracts"
+    paper_path: "academic/conferences/2019/wetseb19/paper.pdf"
+    conference: "WETSEB 19"
+    year: 2019
+    authors: "Josselin Feist, Gustavo Grieco, Alex Groce"
+
+  - title: "Finding the needle in the heap: combining static analysis and dynamic symbolic execution to trigger use-after-free"
+    paper_path: "academic/conferences/2016/ssprew16/paper.pdf"
+    slides_path: "academic/conferences/2016/ssprew16/slides.pdf"
+    conference: "SSPREW 16"
+    year: 2016
+    authors: "Josselin Feist, Laurent Mounier, Sébastien Bardin, Robin David, Marie-Laure Potet"
+
+  - title: "Guided Dynamic Symbolic Execution Using Subgraph Control-Flow Information"
+    paper_path: "academic/conferences/2016/sefm16/paper.pdf"
+    conference: "SEFM 2016"
+    year: 2016
+    authors: "Josselin Feist, Mounier Laurent and Marie-Laure Potet"
+
+  - title: "Specification of Concretization and Symbolization Policies in Symbolic Execution"
+    paper_path: "academic/conferences/2016/issta16/paper.pdf"
+    conference: "ISSTA 2016"
+    year: 2016
+    authors: "Robin David, Sébastien Bardi, Josselin Feist, Laurent Mounier, Marie-Laure Potet, Thanh Dinh Ta, Jean-Yves Marion"
+
+  - title: "BINSEC/SE: A Dynamic Symbolic Execution Toolkit for Binary-level Analysis"
+    paper_path: "academic/conferences/2016/saner16/paper.pdf"
+    conference: "SANER 2016"
+    year: 2016
+    authors: "Robin David, Sebastien Bardin, Mounier Laurent, Thanh Dinh Ta, Jean-Yves Marion, Josselin Feist and Marie-Laure Potet"
+
+  - title: "Toward large-scale vulnerability discovery using Machine Learning"
+    paper_path: "academic/conferences/2016/codaspy16/paper.pdf"
+    conference: "Codaspy 2016"
+    year: 2016
+    authors: "Gustavo Grieco, Guillermo Luis Grinblat, Lucas Uzal, Sanjay Rawat, Josselin Feist and Laurent Mounier"
+
+industrial_presentations:
+  - title: "The Definitive Guide to Rounding in DeFi"
+    slides_path: "industrial/presentations/2025/2025-11-16_rounding.pdf"
+    conference: "WonderCon 2025"
+    year: 2025
+    authors: "Josselin Feist"
+    invited: true
+
+  - title: "Introduction to fuzzing"
+    slides_path: "industrial/presentations/2024/ethbelgrade/2024-06-05- Introduction to fuzzing (ethbelgrade).pdf"
+    conference: "EthBelgrade 2024"
+    year: 2024
+    authors: "Josselin Feist"
+    invited: true
+
+  - title: "Slither: Advanced usage"
+    slides_path: "industrial/presentations/2024/ethbelgrade/2024-06-07 - Slither - Web3 Summit.pdf"
+    conference: "Web3 summit"
+    year: 2024
+    authors: "Josselin Feist"
+    invited: true
+
+  - title: "RoundMe: rounding analysis made simpler"
+    slides_path: "industrial/presentations/2023/2023-11-14 - TrustX - roundme.pdf"
+    conference: "Trust-X 2023"
+    year: 2023
+    authors: "Josselin Feist"
+
+  - title: "Build Secure Smart Contracts: How to fuzz with a pro"
+    slides_path: "industrial/presentations/2022/ethcc/2022-07-20 - Building secure contracts_ How to fuzz like a pro.pdf"
+    conference: "EthCC 2022"
+    year: 2022
+    authors: "Josselin Feist, Nat Chin"
+
+  - title: "Building a Practical Static Analyzer for Smart Contracts"
+    slides_path: "industrial/presentations/2021/Dagstuhl/slides.pdf"
+    conference: "Dagstuhl - Rigorous Methods for Smart Contracts 2021"
+    year: 2021
+    authors: "Josselin Feist"
+    invited: true
+
+  - title: "Testing and Verifying Smart Contracts: From Theory to Practice"
+    slides_path: "industrial/presentations/2021/gtmfs/slides.pdf"
+    conference: "Formal Methods for Computer Security 2021"
+    year: 2021
+    authors: "Josselin Feist"
+    invited: true
+
+  - title: "Safely integrating with ERC20 tokens"
+    slides_path: "industrial/presentations/2021/hello_security_21/slides.pdf"
+    conference: "Hello Security 2021"
+    year: 2021
+    authors: "Josselin Feist"
+    invited: true
+
+  - title: "SlithIR, An Intermediate Representation of Solidity to enable High Precision Security Analysis"
+    slides_path: "industrial/presentations/2019/run_evm19/slides.pdf"
+    conference: "RunEVM 2019"
+    year: 2019
+    authors: "Josselin Feist"
+    invited: true
+
+  - title: "Slither: A Static Analysis Framework for Smart Contracts"
+    slides_path: "industrial/presentations/2019/ethcc19/slides.pdf"
+    conference: "EthCC 2019"
+    year: 2019
+    authors: "Josselin Feist"
+
+  - title: "Contract upgrade risks and remediations"
+    slides_path: "industrial/presentations/2018/empire_hacking18/slides.pdf"
+    video_url: "https://www.youtube.com/watch?v=mebA5Qz9zeQ"
+    conference: "Empire Hacking 2018"
+    year: 2018
+    authors: "Josselin Feist"
+
+  - title: "Automatic Bug Finding For The Blockchain"
+    slides_path: "industrial/presentations/2017/ekoparty17/slides.pdf"
+    conference: "Ekoparty 2017"
+    year: 2017
+    authors: "Felipe Manzano, Josselin Feist"
+
+  - title: "GUEB: Static Detection of Use-After-Free on Binary"
+    conference: "Toorcon San Diego 2015"
+    year: 2015
+    authors: "Josselin Feist"
+
+  - title: "Statically detecting Use-After-Free on Binary Code"
+    conference: "GreHack 2013"
+    year: 2013
+    authors: "Josselin Feist, Laurent Mounier, Marie-Laure Potet"
+
+industrial_workshops:
+  - title: "Slither: API walkthrough"
+    slides_path: "industrial/workshops/2024/ethdam/2024-04-12-.pdf"
+    conference: "EThDam 2024"
+    year: 2024
+    authors: "Josselin Feist"
+
+  - title: "Slither: API walkthrough"
+    slides_path: "industrial/workshops/2024/secureum/2024-06-17 Slither.pdf"
+    conference: "Secureum 2024"
+    year: 2024
+    authors: "Josselin Feist"
+
+  - title: "Build Secure Smart Contracts: How to fuzz with a pro"
+    slides_path: "industrial/workshops/2023/trust-x/2023-11-14-fuzzing.pdf"
+    conference: "Trust-X 2023"
+    year: 2023
+    authors: "Josselin Feist"
+
+  - title: "Build Secure Smart Contracts: How to fuzz with a pro"
+    slides_path: "industrial/workshops/2023/ethcc/2023-07-17 - How to fuzz like a pro (ethcc).pdf"
+    conference: "EthCC 2023"
+    year: 2023
+    authors: "Josselin Feist, Nat Chin, Justin Jacob"
+
+  - title: "Build Secure Smart Contracts: How to fuzz with a pro"
+    slides_path: "industrial/workshops/2023/devcon/2023-10-01-fuzzing.pdf"
+    conference: "Devcon 2023"
+    year: 2023
+    authors: "Josselin Feist, Gustavo Grieco"
+
+  - title: "Build Secure Smart Contracts: How to fuzz with a pro"
+    slides_path: "industrial/workshops/2023/ebs/2023-11-07-fuzzing.pdf"
+    conference: "EBS"
+    year: 2023
+    authors: "Josselin Feist"
+
+  - title: "Build Secure Smart Contracts: How to fuzz with a pro"
+    slides_path: "industrial/workshops/2023/defi101/2023-07-14-How-to-fuzz-like-a-pro.pdf"
+    conference: "DeFi 101"
+    year: 2023
+    authors: "Josselin Feist, Nat Chin, Justin Jacob"
+
+  - title: "Build Secure Smart Contracts: How to fuzz with a pro"
+    slides_path: "industrial/workshops/2022/dappcon/2022-08-09_How_to_fuzz_like_a_pro.pdf"
+    conference: "DappCon 2022"
+    year: 2022
+    authors: "Josselin Feist, Troy Sargent"
+
+  - title: "Build Secure Smart Contracts: A Deep Dive into Automated Tools"
+    slides_path: "industrial/workshops/2020/trufflecon20/slides.pdf"
+    conference: "TruffleCon 2020"
+    year: 2020
+    authors: "Josselin Feist"
+
+  - title: "Automated Smart Contracts Audit Workshop"
+    slides_path: "industrial/workshops/2019/trufflecon19/slides.pdf"
+    conference: "TruffleCon 2019"
+    year: 2019
+    authors: "Josselin Feist"
+
+  - title: "Using Manticore and Symbolic Execution to Find Smart Contracts Bugs"
+    slides_path: "industrial/workshops/2018/devconIV/slides.pdf"
+    exercises_path: "industrial/workshops/2018/devconIV/exercises.pdf"
+    conference: "Devcon IV"
+    year: 2018
+    authors: "Josselin Feist"
+
+  - title: "Introduction to Smart Contract Exploitation"
+    slides_path: "industrial/workshops/2018/grehack18/slides.pdf"
+    exercises_path: "industrial/workshops/2018/grehack18/exercises.pdf"
+    conference: "GreHack 2018"
+    year: 2018
+    authors: "Josselin Feist"
+
+  - title: "Automated Smart Contracts Audit Workshop"
+    slides_path: "industrial/workshops/2018/trufflecon18/slides.pdf"
+    conference: "TruffleCon 2018"
+    year: 2018
+    authors: "Josselin Feist"
+
+  - title: "Manticore Workshop"
+    slides_path: "industrial/workshops/2018/ethcc18/slides.pdf"
+    exercises_path: "industrial/workshops/2018/ethcc18/exercises.pdf"
+    conference: "EthCC 2018"
+    year: 2018
+    authors: "Josselin Feist, JP Smith"
+
+podcasts_panels:
+  - title: "Bountyhunt3rz"
+    url: "https://www.youtube.com/watch?v=bUsaqKasI8A"
+    type: "Podcast"
+    year: 2025
+
+  - title: "The Network Podcast"
+    url: "https://www.youtube.com/watch?v=P5ZbgHvMbs0"
+    type: "Podcast"
+    year: 2025
+
+  - title: "Fuzzing vs Formal Verification — Panel discussion"
+    url: "https://www.youtube.com/watch?v=NCclZjMmkDs&list=PL-O3RcN9YCVRMEGA6kkQhQ2tM9OuotHPD&index=1"
+    type: "Panel"
+    event: "Web 3 Security summit"
+    year: 2024
+
+  - title: "Garden finance - AMA"
+    url: "https://x.com/garden_finance/status/1816220025268707540"
+    type: "Podcast"
+    year: 2024
+
+  - title: "Cyfrin - Symbolic Execution & Formal Verification"
+    url: "https://www.youtube.com/watch?v=Ycj0ZVWof5E"
+    type: "Podcast"
+    year: 2023
+
+  - title: "DeFi security Summit 2023 - Session 16: Audits Conventional vs Community Panel"
+    url: "https://www.youtube.com/watch?v=Ycj0ZVWof5E"
+    type: "Panel"
+    event: "DSS"
+    year: 2023
+
+  - title: "Secureum SafeCast #3"
+    url: "https://www.youtube.com/watch?v=Ycj0ZVWof5E"
+    type: "Podcast"
+    year: 2022
+
+  - title: "Soliditors"
+    url: "https://www.youtube.com/watch?v=G_HlT0ttVu0"
+    type: "French podcast"
+    year: 2024
