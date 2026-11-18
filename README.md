@@ -46,6 +46,8 @@
 
 | Title | Conference | Authors |
 | --- | --- | --- |
+| [Security is a Leadership Problem](industrial/presentations/2026/devcon/2026-11-05-leadership.pdf) | Devcon 2026 | Josselin Feist |
+| [Security is a Leadership Problem](industrial/presentations/2026/DSS/2026-11-02-leadership.pdf) | DSS 2026 | Josselin Feist |
 | [The Definitive Guide to Rounding in DeFi](industrial/presentations/2025/2025-11-16_rounding.pdf) | WonderCon 2025 | Josselin Feist (invited talk) |
 | [Introduction to fuzzing](industrial/presentations/2024/ethbelgrade/2024-06-05-%20Introduction%20to%20fuzzing%20%28ethbelgrade%29.pdf) | EthBelgrade 2024 | Josselin Feist (invited talk) |
 | [Slither: Advanced usage](industrial/presentations/2024/ethbelgrade/2024-06-07%20-%20Slither%20-%20Web3%20Summit.pdf) | Web3 summit | Josselin Feist (invited talk) |
@@ -82,6 +84,8 @@
 
 ## Podcast, panel & misc
 
+* [Tragedy of the Ethereum Security Commons](https://app.devcon.org/schedule/tragedy-of-the-ethereum-security-commons) - Panel (Devcon - 2026)
+* [Securing Ethereum in the age of AI: Challenges & Opportunities](https://app.devcon.org/schedule/securing-ethereum-in-the-age-of-ai-challenges-and-opportunities) - Panel (Devcon - 2026)
 * [Bountyhunt3rz](https://www.youtube.com/watch?v=bUsaqKasI8A) - Podcast (2025)
 * [The Network Podcast](https://www.youtube.com/watch?v=P5ZbgHvMbs0) - Podcast (2025)
 * [Fuzzing vs Formal Verification — Panel discussion](https://www.youtube.com/watch?v=NCclZjMmkDs&list=PL-O3RcN9YCVRMEGA6kkQhQ2tM9OuotHPD&index=1) - Panel (Web 3 Security summit - 2024)

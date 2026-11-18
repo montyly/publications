@@ -66,6 +66,18 @@ academic_conferences:
     authors: "Gustavo Grieco, Guillermo Luis Grinblat, Lucas Uzal, Sanjay Rawat, Josselin Feist and Laurent Mounier"
 
 industrial_presentations:
+  - title: "Security is a Leadership Problem"
+    slides_path: "industrial/presentations/2026/devcon/2026-11-05-leadership.pdf"
+    conference: "Devcon 2026"
+    year: 2026
+    authors: "Josselin Feist"
+
+  - title: "Security is a Leadership Problem"
+    slides_path: "industrial/presentations/2026/DSS/2026-11-02-leadership.pdf"
+    conference: "DSS 2026"
+    year: 2026
+    authors: "Josselin Feist"
+
   - title: "The Definitive Guide to Rounding in DeFi"
     slides_path: "industrial/presentations/2025/2025-11-16_rounding.pdf"
     conference: "WonderCon 2025"
@@ -245,6 +257,20 @@ industrial_workshops:
     authors: "Josselin Feist, JP Smith"
 
 podcasts_panels:
+  - title: "Tragedy of the Ethereum Security Commons"
+    url: "https://app.devcon.org/schedule/tragedy-of-the-ethereum-security-commons"
+    type: "Panel"
+    event: "Devcon"
+    year: 2026
+    authors: "Griff Green, Josselin Feist"
+
+  - title: "Securing Ethereum in the age of AI: Challenges & Opportunities"
+    url: "https://app.devcon.org/schedule/securing-ethereum-in-the-age-of-ai-challenges-and-opportunities"
+    type: "Panel"
+    event: "Devcon"
+    year: 2026
+    authors: "0xRajeev, Vitalik, Fredrik Svantes, Mooly Sagiv, Josselin Feist"
+
   - title: "Bountyhunt3rz"
     url: "https://www.youtube.com/watch?v=bUsaqKasI8A"
     type: "Podcast"
